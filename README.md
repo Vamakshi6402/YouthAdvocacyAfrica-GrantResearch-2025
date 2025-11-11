@@ -1,41 +1,42 @@
 # Youth Advocacy Africa – Grant Research (2025–2026)
 
-This repository contains the research deliverable authored by **Vamakshi Chaturvedi** as part of her voluntary collaboration with **Youth Advocacy Africa (YAA)**, a Nairobi-based nonprofit empowering youth-led initiatives across sub-Saharan Africa.
+Author: Vamakshi Chaturvedi  
+Role: Volunteer Economist / Lead Author  
+Organization: Youth Advocacy Africa (Nairobi, Kenya)  
+Period: Aug – Nov 2025  
+
+This repository presents the research deliverable developed for Youth Advocacy Africa’s 2025–2026 funding strategy.  
+The project outlines practical methods to align youth-led initiatives in climate action, livelihoods, and civic empowerment with global donor frameworks and SDG indicators.
+
+The brief identifies funding gaps, introduces donor-alignment matrices, and proposes data-driven reporting systems to strengthen proposal quality and donor credibility.
+
+📄 **Deliverable:** [YouthAdvocacyAfrica_GrantResearch_2025.pdf](https://github.com/Vamakshi6402/YouthAdvocacyAfrica-GrantResearch-2025/blob/main/docs/VamakshiChaturvedi_YouthAdvocacyAfrica_GrantResearch_2025.pdf)  
+📄 **Acknowledgment:** Official recognition provided by YAA Executive Director (private file on record)
 
 ---
 
-## 📘 Project Overview
-The brief titled **“Aligning Youth-Led Projects with Global Funding Priorities (2025–2026)”** provides a structured analysis of international donor mechanisms — including UNDP, USAID, Ford Foundation, GEF, and Mastercard Foundation — and practical recommendations for strengthening YAA’s funding strategies through SDG alignment and data-driven reporting.
+### Focus Areas
+- Donor landscape mapping: UNDP, USAID, Ford Foundation, GEF, Mastercard Foundation  
+- SDG alignment: Decent Work (SDG 8) and Climate Action (SDG 13)  
+- Quantitative outcome framing and economic-impact indicators  
+- Integration of open-source data dashboards (Google Sheets, KoboToolbox)  
+- Institutional partnerships for evidence-based proposal design  
+
+### Outcome
+The report contributed to YAA’s upcoming grant-readiness portfolio, improving internal funding documentation and strategic outreach for 2026 calls.
 
 ---
 
-## 🧩 Key Focus Areas
-- Mapping youth projects to global donor priorities  
-- Integrating data dashboards for real-time impact tracking  
-- Building “grant readiness” portfolios for open calls  
-- Enhancing proposal metrics and economic impact evaluation  
-- Strengthening partnerships with universities and global institutions
+### Keywords
+Development Economics · Grant Research · Impact Evaluation · SDG Alignment · Youth Empowerment  
+
+### Related Links
+🌐 [Youth Advocacy Africa](http://www.yaafrika.org)  
+🔗 [LinkedIn Portfolio](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206)  
+🧠 [ORCID ID](https://orcid.org/0009-0003-3307-783X)
 
 ---
 
-## 🏆 Outcome
-This deliverable supported YAA’s 2025–2026 fundraising strategy, improving donor engagement and internal reporting frameworks.  
-It has been acknowledged officially by **Elijah Koome**, Executive Director at Youth Advocacy Africa, in a reference letter dated *November 10, 2025*.
+**© 2025 Vamakshi Chaturvedi. All rights reserved.**  
 
----
-
-## 📂 Files Included
-- **VamakshiChaturvedi_YouthAdvocacyAfrica_GrantResearch_2025.pdf** — Full research brief  
-- **Reference Letter_Vamakshi_YAA.pdf** — Official recognition from YAA Executive Director
-
---- 
-
-## 🔗 External Links
-- 🌍 [Youth Advocacy Africa Website](http://www.yaafrika.org)  
-- 🧠 [LinkedIn Publication Entry (to be added)]()  
-- 🧾 [ORCID Profile (to be linked)]()  
-
----
-
-*© 2025 Vamakshi Chaturvedi | MSc Economics, University of Manchester*  
-*For queries: vamakshichaturvedi156@gmail.com*
+Original work prepared for professional and research purposes. Please request permission before redistribution.
