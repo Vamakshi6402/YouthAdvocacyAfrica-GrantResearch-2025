@@ -10,7 +10,8 @@ The project outlines practical methods to **align youth-led initiatives** in cli
 
 The brief identifies **funding gaps**, introduces **donor-alignment matrices**, and proposes **data-driven reporting systems** to strengthen proposal quality and donor credibility.
 
-📄 **Deliverable:** [YouthAdvocacyAfrica_GrantResearch_2025.pdf](https://github.com/Vamakshi6402/YouthAdvocacyAfrica-GrantResearch-2025/blob/main/docs/VamakshiChaturvedi_YouthAdvocacyAfrica_GrantResearch_2025.pdf)  
+
+📄 **Deliverable:** [YouthAdvocacyAfrica_GrantResearch_2025.pdf](https://github.com/Vamakshi6402/Youth-Advocacy-Africa-Grant-Research-2025/blob/main/docs/VamakshiChaturvedi_YouthAdvocacyAfrica_GrantResearch_2025.pdf)
 📄 **Acknowledgment:** Official recognition provided by **YAA Executive Director** (private file on record)
 
 ---
