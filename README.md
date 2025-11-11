@@ -12,6 +12,7 @@ The brief identifies **funding gaps**, introduces **donor-alignment matrices**, 
 
 
 📄 **Deliverable:** [YouthAdvocacyAfrica_GrantResearch_2025.pdf](https://github.com/Vamakshi6402/Youth-Advocacy-Africa-Grant-Research-2025/blob/main/docs/VamakshiChaturvedi_YouthAdvocacyAfrica_GrantResearch_2025.pdf)
+
 📄 **Acknowledgment:** Official recognition provided by **YAA Executive Director** (private file on record)
 
 ---
