@@ -38,8 +38,8 @@ The report contributed to **YAA’s upcoming grant-readiness portfolio**, improv
 
 ### Related Links
 🌐 [**Youth Advocacy Africa**](http://www.yaafrika.org)  
-🔗 [**LinkedIn Portfolio**](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206)  
-🧠 [**ORCID ID**](https://orcid.org/0009-0003-3307-783X)
+🔗 [**My LinkedIn Profile**](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206)  
+🧠 [**My ORCID ID**](https://orcid.org/0009-0003-3307-783X)
 
 ---
 
